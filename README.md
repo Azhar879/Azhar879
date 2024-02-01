@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azhar</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate developer and a computer science student</h3>
 
 Hello! My name is Azhar and I enjoy creating things that live on the internet. My interest in web development started back in 2014 when I decided to try creating my first web page — turns out hacking together a few headers, paragraphs, images and buttons taught me a lot about HTML & CSS!
 Fast-forward to today, I'm a web developer specializing in building accessible user interfaces and exceptional digital experiences.
