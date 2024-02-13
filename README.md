@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azhar</h1>
 <h3 align="center">A passionate developer and a computer science student</h3>
 
-Hi! My name is Azhar and I enjoy creating things that live on the internet. My interest in web development started back in 2014 when I decided to try creating my first web page — turns out hacking together a few headers, paragraphs, images and buttons taught me a lot about HTML & CSS!
+Hi! My name is Azhar and I enjoy creating things that live on the internet. My interest in web development started back in 2013 when I decided to try creating my first web page — turns out hacking together a few headers, paragraphs, images and buttons taught me a lot about HTML & CSS!
 Fast-forward to today, I'm a web developer specializing in building accessible user interfaces and exceptional digital experiences.
 I'm naturally curious, I love to learn, and pick up skills quickly. Coding has been one of the most fulfilling and engaging experiences of my life! I see everything I do as a great opportunity for authentic self-expression.
 
